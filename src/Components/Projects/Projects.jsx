@@ -73,7 +73,7 @@ export const Projects = () => {
                 <div>
                   <img
                     src="https://camo.githubusercontent.com/d371aba3e9c1c628cf41a9a33ef8b33b90e45d086054f2e307617eb98228ebeb/68747470733a2f2f692e696d6775722e636f6d2f307a71347942412e706e67"
-                    alt="Sk-Weather-App"
+                    alt="Lybrate.com"
                   />
                 </div>
               </div>

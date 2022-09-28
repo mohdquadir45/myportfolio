@@ -8,7 +8,8 @@ import {
   SiExpress,
   SiRedis,
   SiTailwindcss,
-  SiNetlify
+  SiNetlify,
+  SiChakraui
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { SiJavascript, SiHeroku } from "react-icons/si";
@@ -52,12 +53,12 @@ export const Techstacks = () => {
           </div>
 
           <div>
-            <FaAws />
-            <h5>AWS</h5>
+          <SiChakraui/>
+            <h5>Chakra Ui</h5>
           </div>
           <div>
-            <BsBootstrap />
-            <h5>Bootstrap</h5>
+            <SiMaterialui />
+            <h5>Material Ui</h5>
           </div>
           <div>
             <SiRedux />

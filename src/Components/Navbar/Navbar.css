@@ -1,5 +1,7 @@
 .nav__list {
   margin-right: 1.5em;
+  position: sticky;
+  z-index: 1000;
   display: flex;
 }
 .nav__list-item {

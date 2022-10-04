@@ -1,4 +1,5 @@
 import React from "react";
+import GitHubCalendar from "react-github-calendar";
 
 export const Github = () => {
   const colourTheme = {
@@ -18,7 +19,7 @@ export const Github = () => {
         <h2 className="section__title different">
           Days I <span className="different"> Code</span>
         </h2>
-        <Githubcalendar
+        <GitHubCalendar
           username="mohammad-atique"
           blockSize={15}
           blockMargin={5}

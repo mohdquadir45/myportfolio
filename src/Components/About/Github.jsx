@@ -21,10 +21,6 @@ export const Github = () => {
         </h2>
         <GitHubCalendar
           username="mohammad-atique"
-          blockSize={15}
-          blockMargin={5}
-          theme={colourTheme}
-          fontSize={16}
         />
       </div>
     </>

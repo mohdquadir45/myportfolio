@@ -8,7 +8,7 @@ export const Header = () => {
   const [{ themename }] = React.useContext(ThemeContext);
 
   return (
-    <>
+    <div className="main_header">
       <header className={"header center " + themename}>
         <h3>
           <a href="#home" className="link">
@@ -20,6 +20,6 @@ export const Header = () => {
         </h3>
         <Navbar />
       </header>
-    </>
+      </div>
   );
 };

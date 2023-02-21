@@ -52,10 +52,7 @@ export const Techstacks = () => {
             <h5>Express</h5>
           </div>
 
-          <div>
-          <SiChakraui/>
-            <h5>Chakra Ui</h5>
-          </div>
+          
           <div>
             <SiMaterialui />
             <h5>Material Ui</h5>
@@ -64,10 +61,7 @@ export const Techstacks = () => {
             <SiRedux />
             <h5>Redux</h5>
           </div>
-          <div>
-            <SiHeroku />
-            <h5>Heroku</h5>
-          </div>
+          
           <div>
             <VscGithub />
             <h5>Github</h5>

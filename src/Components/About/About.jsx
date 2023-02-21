@@ -17,7 +17,7 @@ export const About = () => {
     <>
       <div className="about center">
         <h1 data-aos="fade-right" className="mobileHead">
-          Hello, I am <span className="about__name">Mohammad Atique</span>
+          Hello, I am <span className="about__name">Mohammed Quadir</span>
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
@@ -25,7 +25,7 @@ export const About = () => {
         </p>
         <div className="about__contact center">
           <a
-            href="https://github.com/mohammad-atique"
+            href="https://github.com/mohdquadir45"
             aria-label="github"
             target="_blank"
             rel="noreferrer"
@@ -34,7 +34,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:atiquemohd04@gmail.com"
+            href="mailto:mohdquadir45@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="mail"
@@ -43,7 +43,7 @@ export const About = () => {
             <EmailIcon />
           </a>
           <a
-            href="tel:+918888751427"
+            href="tel:+917378861934"
             target="_blank"
             rel="noreferrer"
             aria-label="phone"
@@ -52,7 +52,7 @@ export const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohammad-atique/"
+            href="https://www.linkedin.com/in/mohammed-quadir-29775b1b4/"
             aria-label="linkedin"
             className="link link--icon"
             target="_blank"
@@ -61,7 +61,7 @@ export const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://twitter.com/atiquemohd04"
+            href="https://twitter.com/mohdQuadir11"
             aria-label="twitter"
             className="link link--icon"
             target="_blank"
@@ -75,7 +75,7 @@ export const About = () => {
           className="btnResume"
           onClick={() => {
             window.open(
-              "https://drive.google.com/file/d/1kdK_FpdA7OMj5E-vKANq3jDPiE71PjiG/view?usp=sharing"
+              "https://drive.google.com/file/d/1BT6SZg13q3AER86BuCTj7yqNiTS5rxN7/view?usp=share_link"
             );
           }}
         >

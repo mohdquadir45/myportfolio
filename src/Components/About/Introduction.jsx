@@ -17,23 +17,23 @@ export const Introduction = () => {
           </h2>
           <div className={"introduction " + themename}>
             <div className="introduction_logocontainer">
-              <img src={profilePic} alt="Images" />
+              <img src={profilePic} style={{objectFit:'cover'}} alt="Images" />
             </div>
             <div className="introduction_datacontainer">
               <h4>
                 Hi Everyone, My name is{" "}
-                <span className="different">Mohammad Atique </span> and I am from{" "}
+                <span className="different">Mohammed Quadir </span> and I am from{" "}
                 <span className="different">
                   {" "}
-                  Khamgaon, Maharashtra (India)
+                  Akola, Maharashtra (India)
                 </span>
-                . I have completed my graduation in BE (Electrical Engineering)
+                . I have completed my graduation in BE (Mechanical Engineering)
                 from{" "}
                 <span className="different">
                   Mauli College of Engineering, Shegaon (MH)
                 </span>
                 . Then I joined full stack development course by{" "}
-                <span className="different">Masai School</span> a military type
+                <span className="different">Newton School</span> a military type
                 coding school.
               </h4>
               <h4>Terms That can describe me apart form Coding :</h4>

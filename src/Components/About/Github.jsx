@@ -20,7 +20,7 @@ export const Github = () => {
           Days I <span className="different"> Code</span>
         </h2>
         <GitHubCalendar
-          username="mohammad-atique"
+          username="mohdquadir45"
           blockSize={15}
           blockMargin={5}
         />

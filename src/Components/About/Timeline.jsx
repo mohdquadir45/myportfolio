@@ -33,7 +33,7 @@ export const Timeline = () => {
         <VerticalTimeline lineColor={linecolor}>
           
           <VerticalTimelineElement
-            date={"Dec 2021 - Jan 2022"}
+            date={"May 2021 - Jan 2022"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
@@ -61,7 +61,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              Masai School
+              Newton Shool
             </h4>
             <p data-aos="fade-right">
               Mentoring and clearing student's doubts via one to one and one to
@@ -99,7 +99,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              Masai School (Remote)
+              Newton School (Remote)
             </h4>
             <p data-aos="fade-right">
               Joined the Military coding school to learn Full Stack Development
@@ -130,7 +130,7 @@ export const Timeline = () => {
               className="vertical-timeline-element-title"
               data-aos="fade-right"
             >
-              Bachelor of Engineering (Electrical Engineering)
+              Bachelor of Engineering (Mechanical Engineering)
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
@@ -139,8 +139,8 @@ export const Timeline = () => {
               Mauli College of Engineering, Shegaon (MH)
             </h4>
             <p data-aos="fade-right">
-              Studied Electrical Engineering and Passed
-              with 7.98 CGPA
+              Studied Mechanical Engineering and Passed
+              with 6.66 CGPA
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -173,10 +173,10 @@ export const Timeline = () => {
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              J. V. Mehta Jr. College, Khamgaon
+              Anjuman Jr. College, Balapur
             </h4>
             <p data-aos="fade-right">
-              Passed with 69.38 Percentage.
+              Passed with 71.23 Percentage.
             </p>
           </VerticalTimelineElement>
 
